@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  font-family: "Segoe UI", system-ui, sans-serif;
+  background: #f4efe6;
+  color: #222;
+}
+
+header {
+  background: #73000a;
+  color: #fff;
+  padding: 2rem 1.5rem;
+}
+
+main {
+  max-width: 42rem;
+  margin: 0 auto;
+  padding: 1.5rem;
+}
+
+a {
+  color: #73000a;
+}
+
+footer {
+  max-width: 42rem;
+  margin: 0 auto;
+  padding: 0 1.5rem 2rem;
+  color: #555;
+}
+
+code {
+  background: #e8e0d4;
+  padding: 0.1rem 0.35rem;
+}
